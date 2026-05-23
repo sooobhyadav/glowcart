@@ -20,4 +20,4 @@ GlowCart is a simple React + Vite based cosmetic product showcase website.
 
 ## Live Demo
 https://glowcart-pink.vercel.app/
-Coming Soon.
+
