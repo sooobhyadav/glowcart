@@ -1,0 +1,29 @@
+.Header{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 60px;
+}
+
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.nav-links{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.nav-links li{
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.nav-links li:hover{
+    color: aqua;
+}
+
